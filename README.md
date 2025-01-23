@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chiheb, AKA @SKCH-GE
-- 👀 I’m interested in Embedded System, Software Dev, high-low level programming and a bit of CY-SEC.
+- 👀 I’m interested in Embedded System, Software Engineering, high & low level programming and a bit of CY-SEC.
 - 🌱 I’m currently studying electrical engineering.
 - 💞️ I’m looking to collaborate on IoT, WebAPP, PCB Design, Python and C/C++ projects
 - 📫 How to reach me, you can send me an e-mail on: saklychiheb45@gmail.com
