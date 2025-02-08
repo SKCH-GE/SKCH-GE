@@ -1,7 +1,7 @@
 # Hi there, I'm Chiheb 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your_linkedin_url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](your_portfolio_url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chiheb-eddine-sakly/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](http://skch-ge.github.io/portfolio-html-css-js/#home)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:saklychiheb45@gmail.com)
 
 ## About Me 🚀
@@ -59,8 +59,8 @@ I'm always excited to work on:
 ### 📫 Get in Touch
 
 - 📧 Email: saklychiheb45@gmail.com
-- 💼 LinkedIn: [[Your LinkedIn]](https://www.linkedin.com/in/chiheb-eddine-sakly/)
-- 🌐 Portfolio: [[Your Portfolio]](http://skch-ge.github.io/portfolio-html-css-js/#home)
+- 💼 LinkedIn: https://www.linkedin.com/in/chiheb-eddine-sakly/
+- 🌐 Portfolio: http://skch-ge.github.io/portfolio-html-css-js/#home
 
 > "They say mastery of everything is mastery of none, but I believe in the power of interdisciplinary knowledge."
 
