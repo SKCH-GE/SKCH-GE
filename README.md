@@ -19,8 +19,8 @@ Development Tools            🔧 Qt | React.js | Spring boot | Express.js | VSC
 ### 🎯 Current Focus
 
 - 📚 Pursuing Electrical Engineering degree
-- 💡 Exploring Sytem design patterns 
-- 🔍 Gaining embedded systems experience
+- 💡 Exploring Sytem Design patterns 
+- 🔍 Gaining Programming experience
 - 🌐 Developing applications as solutions
 
 ### 🤝 Let's Collaborate!
@@ -31,9 +31,3 @@ I'm always excited to work on:
 - PCB Design
 - AI Development
 - Computer Vision
-
-### 📫 Get in Touch
-
-- 📧 Email: saklychiheb45@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/chiheb-eddine-sakly/
-- 🌐 Portfolio: http://skch-ge.github.io/portfolio-html-css-js/#home
